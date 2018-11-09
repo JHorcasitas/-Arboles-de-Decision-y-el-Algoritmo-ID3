@@ -10,7 +10,7 @@ Este repositorio contiene el código para generar todos los resultados descritos
 2. 'predecir': Toma como parámetro un conjunto de patrones de entrenamiento X en forma de un arreglo bidimensional de NumPy y computa la predicción para cada una de sus instancias.
 
 # Ejemplo de uso
-Lo primero es importar la clase
+Lo primero es importar la clase ID3_C y NumPy:
 
 ```python
 from ID3_C import ID3_C
