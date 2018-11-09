@@ -15,7 +15,6 @@ Lo primero es importar la clase
 ```python
 from ID3_C import ID3_C
 import numpy as np
-P.generate_seq(60)
 ```
 
 Para generar predicciones sobre la base de datos 'futbol.csv' podríamos correr el siguiente código:
