@@ -1,0 +1,8 @@
+Variable,Descripción,Posibles Valores,Abreviaciones
+P,Específica que equipo tiene más puntos.,L | V | E,L = Local
+GF,Específica que equipo tiene más goles a favor.,L | V | E,V = Visitante
+GC,Específica que equipo tiene más goles en contra.,L | V | E,E = Empate
+P3,Específica que equipo ha conseguido más puntos en los últimos 3 juegos.,L | V | E,
+GF3,Específica que equipo ha conseguido más goles a favor en los últimos 3 juegos.,L | V | E,
+GC3,Específica que equipo ha conseguido más goles en contra en los últimos 3 juegos.,L | V | E,
+Resultado,Resultado del partido,,
